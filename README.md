@@ -21,7 +21,7 @@ In this tutorial, we'll focus on a regex pattern that matches hex values: `#[0-9
 4. [About the Author](#about-the-author)
 
 
-## Introduction to Regex
+# Introduction to Regex
 
 Welcome to the Introduction to Regex section of our tutorial! In this section, we'll explain what regular expressions (regex) are and why they can be helpful in programming.
 
