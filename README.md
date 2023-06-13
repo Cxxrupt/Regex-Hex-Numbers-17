@@ -74,3 +74,31 @@ The final component of our regex pattern is `{6}`. This part specifies that we e
 By combining these components, our regex pattern `#[0-9A-Fa-f]{6}` effectively matches hex values that start with '#' and consist of six valid hexadecimal characters.
 
 Understanding the breakdown of this pattern will help you modify or create your own regex patterns to match hex values accurately.
+
+# About the Author
+
+## Introduction
+
+Hello! I'm Jackson, a passionate programmer and software developer. Thank you checking out my tutorial!
+
+## Background
+
+I have a strong interest in coding and am currently pursuing my education in computer science.
+
+## Bootcamp Experience
+
+I am actively engaged in a coding and software development bootcamp where I am expanding my knowledge and honing my skills. Through this immersive program, I am gaining a solid foundation in various programming languages, web development, and software engineering principles.
+
+## Side Projects and Collaboration
+
+In addition to my bootcamp coursework, I enjoy working on side projects and collaborating with a group of friends. We create small games and develop software applications together, which allows us to practice and enhance our coding abilities.
+
+## Goals and Aspirations
+
+My goal is to become a skilled and versatile software developer. I am passionate about continuous learning and staying up-to-date with the latest technologies and advancements in the field. I aspire to contribute to exciting projects that make a positive impact.
+
+## Connect with Me
+
+Feel free to connect with me on [GitHub](https://github.com/cxxrupt), where I share my coding projects and collaborate on open-source repositories. I'm always eager to connect with fellow developers and learn from their experiences.
+
+Thank you for your interest in learning more about me.
