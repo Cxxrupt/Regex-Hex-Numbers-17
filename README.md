@@ -44,3 +44,13 @@ Regex works in many programming languages like JavaScript, Python, and Java. Eac
 Throughout this tutorial, we'll focus on the basics of regex and show you easy examples of how to use it.
 
 Now that you know what regex is and why it's useful, let's move on to the next section where we'll learn how to match hex values using regex.
+
+# Matching Hex Values
+
+In this section, we'll explore how to use regular expressions (regex) to match hex values, which are commonly used to represent colors in web development.
+
+Throughout this tutorial, we'll focus on a specific regex pattern that matches hex values: `#[0-9A-Fa-f]{6}`. This pattern helps us identify and extract hex values like `#FF0000` or `#1A2B3C`.
+
+By breaking down the components of this regex pattern, we'll explain what each part does. You'll gain a clear understanding of how to use regex to match hex values in your own projects.
+
+Let's get started and discover how to effectively work with hex values using regex.
