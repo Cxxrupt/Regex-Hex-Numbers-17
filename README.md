@@ -12,7 +12,7 @@ In this tutorial, we'll focus on a regex pattern that matches hex values: `#[0-9
 
 ## Table of Contents
 
-1. [Introduction to Regex](#introduction)
+1. [Introduction to Regex](#introduction-to-regex)
 2. [Matching Hex Values](#matching-hex-values)
 3. [Breaking Down the Pattern](#breaking-down-the-pattern)
    - [The Hash Symbol](#the-hash-symbol)
